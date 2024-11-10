@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+# Name: Lokesh M
+# Reg no: 212223230114
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
